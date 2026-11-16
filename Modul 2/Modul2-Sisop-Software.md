@@ -75,7 +75,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
    ```
 
 6. Amati daftar perintah yang tersedia.
-7. Catat hasil pengamatan, termasuk informasi yang ditampilkan oleh kedua perintah tersebut.
+7. Catat/Screenshot hasil pengamatan, termasuk informasi yang ditampilkan oleh kedua perintah tersebut.
 
 #### Percobaan 2 — File System Management
 
@@ -135,7 +135,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
     TYPE catatan.txt
     ```
 
-13. Catat fungsi setiap perintah dan hasil yang diperoleh.
+13. Catat/Screenshot fungsi setiap perintah dan hasil yang diperoleh.
 
 #### Percobaan 3 — Command Interpretation and Program Execution
 
@@ -170,7 +170,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
    ```
 
 8. Amati keluaran yang ditampilkan.
-9. Catat urutan perintah yang dijalankan dan fungsi perintah `ECHO`, `PAUSE`, serta `@ECHO OFF`.
+9. Catat/Screenshot urutan perintah yang dijalankan dan fungsi perintah `ECHO`, `PAUSE`, serta `@ECHO OFF`.
 
 #### Percobaan 4 — Mini Challenge: DOS Command Mission
 
@@ -189,9 +189,9 @@ Kerjakan misi berikut melalui DOSBox. Pastikan sudah berada di drive C dan direk
 7. Ubah nama berkas hasil salinan menjadi `hasil.txt`.
 8. Tampilkan isi direktori `SALINAN`.
 9. Tampilkan isi berkas `hasil.txt`.
-10. Catat perintah yang digunakan untuk menyelesaikan setiap langkah.
+10. Catat/Screenshot perintah yang digunakan untuk menyelesaikan setiap langkah.
 
-### 7. Evaluasi
+### 7. Tugas Modul
 
 Jawablah pertanyaan berikut berdasarkan hasil praktikum.
 
@@ -204,25 +204,12 @@ Jawablah pertanyaan berikut berdasarkan hasil praktikum.
 7. Apa fungsi perintah `ECHO` dan `PAUSE` pada batch file?
 8. Mengapa lokasi folder pada perintah `MOUNT` harus disesuaikan dengan lokasi folder di komputer?
 
-### 8. Ketentuan Pengumpulan
-
-Kumpulkan laporan praktikum yang memuat:
-
-1. Identitas praktikan.
-2. Tujuan praktikum.
-3. Hasil pengamatan setiap percobaan.
-4. Tangkapan layar yang menunjukkan pelaksanaan perintah dan hasilnya.
-5. Daftar perintah yang digunakan pada Mini Challenge beserta hasilnya.
-6. Jawaban evaluasi.
-7. Kesimpulan singkat mengenai hal yang dipelajari selama praktikum.
-
-### 9. Alokasi Waktu
+### 8. Alokasi Waktu
 
 | Kegiatan | Waktu |
 | --- | ---: |
 | Percobaan 1 — Exploring DOS Environment | 10 menit |
-| Percobaan 2 — File System Management | 20 menit |
-| Percobaan 3 — Command Interpretation and Program Execution | 20 menit |
+| Percobaan 2 — File System Management | 15 menit |
+| Percobaan 3 — Command Interpretation and Program Execution | 15 menit |
 | Percobaan 4 — Mini Challenge | 20 menit |
-| Evaluasi dan penyelesaian laporan | 10 menit |
-| **Total** | **80 menit** |
+| **Total** | **60 menit** |
