@@ -143,7 +143,7 @@ Panduan untuk kolom dampak:
 4. Beri tanda khusus pada komponen yang tidak ditemukan atau tidak dapat diamati, beserta keterangan singkat mengenai dampaknya.
 5. Pastikan hasil anotasi mudah dibaca dan sesuai dengan hasil pengamatan.
 
-### 8. Evaluasi
+### 8. Tugas Modul
 
 Jawablah pertanyaan berikut berdasarkan materi dan hasil praktikum. Jawaban dikerjakan pada laporan.
 
@@ -156,22 +156,7 @@ Jawablah pertanyaan berikut berdasarkan materi dan hasil praktikum. Jawaban dike
 7. Mengapa sistem pendingin dibutuhkan pada PC?
 8. Mengapa komponen hardware perlu saling terhubung dan bekerja sama?
 
-### 9. Ketentuan Pengumpulan
-
-Kumpulkan laporan praktikum yang memuat:
-
-1. Identitas praktikan.
-2. Tujuan praktikum.
-3. Foto bagian dalam PC dan foto setiap komponen yang diamati, sesuai izin asisten.
-4. Tabel identifikasi komponen (Tabel 1).
-5. Tabel fungsi dan dampak (Tabel 2).
-6. Foto beranotasi yang memuat label dan keterangan fungsi setiap komponen.
-7. Jawaban evaluasi.
-8. Kesimpulan singkat mengenai hasil praktikum.
-
-Batas waktu dan cara pengumpulan mengikuti arahan asisten.
-
-### 10. Alokasi Waktu
+### 9. Alokasi Waktu
 
 **Di laboratorium**
 
@@ -179,6 +164,6 @@ Batas waktu dan cara pengumpulan mengikuti arahan asisten.
 | --- | ---: |
 | Percobaan 1 — Dokumentasi, identifikasi, dan pencatatan komponen | 50 menit |
 | Merapikan area praktikum dan penutup | 10 menit |
-| **Total** | **45 menit** |
+| **Total** | **60 menit** |
 
-Tugas laporan (bagian 7) dan evaluasi (bagian 8) dikerjakan setelah praktikum.
+Tugas laporan (bagian 7) dan tuags modul (bagian 8) dikerjakan setelah praktikum.
