@@ -66,6 +66,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
    ```dos
    VER
    ```
+![](img/Percobaan1.png)
 
 4. Amati informasi versi DOS yang ditampilkan.
 5. Ketik perintah berikut:
