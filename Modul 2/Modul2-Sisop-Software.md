@@ -66,7 +66,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
    ```dos
    VER
    ```
-![](img/Percobaan1.png)
+![](../img/Percobaan1.png)
 
 4. Amati informasi versi DOS yang ditampilkan.
 5. Ketik perintah berikut:
@@ -74,6 +74,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
    ```dos
    HELP
    ```
+![](../img/Percobaan1,2.png)
 
 6. Amati daftar perintah yang tersedia.
 7. Catat/Screenshot hasil pengamatan, termasuk informasi yang ditampilkan oleh kedua perintah tersebut.
@@ -85,12 +86,14 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
 **Langkah kerja:**
 
 1. Buat sebuah folder di komputer dengan nama `PraktikumDOS`.
+![](../img/Percobaan2,1.png)
 2. Buka DOSBox.
 3. Hubungkan folder tersebut ke DOSBox menggunakan perintah berikut. Sesuaikan alamat folder dengan lokasi folder yang dibuat pada komputer masing-masing.
 
    ```dos
    MOUNT C "C:\PraktikumDOS"
    ```
+![](../img/Percobaan2,3.png)
 
 4. Masuk ke drive C:
 
@@ -103,6 +106,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
    ```dos
    DIR
    ```
+![](../img/Percobaan2,4.png)
 
 6. Buat direktori baru dengan nama `DATA`:
 
@@ -121,15 +125,21 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
    ```dos
    CD \
    ```
+![](../img/Percobaan2,5.png)
 
 9. Buat sebuah berkas teks bernama `catatan.txt` di luar DOSBox menggunakan Notepad. Isi berkas dengan kalimat sederhana, misalnya `Praktikum Sistem Operasi`.
+![](../img/Percobaan2,9,5.png)
+
 10. Salin berkas tersebut ke direktori `DATA` menggunakan perintah:
 
     ```dos
     COPY catatan.txt DATA
     ```
+![](../img/Percobaan2,10.png)
 
 11. Masuk ke direktori `DATA`, lalu tampilkan isi direktori menggunakan `DIR`.
+![](../img/Percobaan2,11.png)
+
 12. Tampilkan isi berkas menggunakan perintah:
 
     ```dos
@@ -155,6 +165,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
    ```
 
 3. Simpan berkas dengan nama `sisop.bat` pada folder `PraktikumDOS`. Pastikan tipe berkas disimpan sebagai *All Files* agar ekstensi `.bat` tidak berubah menjadi `.txt`.
+![](../img/Percobaan2,3.png)
 4. Buka DOSBox jika belum terbuka.
 5. Pastikan folder `PraktikumDOS` sudah terhubung sebagai drive C. Jika belum, jalankan perintah `MOUNT` seperti pada Percobaan 2.
 6. Masuk ke drive C dan direktori utama:
@@ -169,6 +180,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
    ```dos
    sisop.bat
    ```
+![](../img/Percobaan3,9.png)
 
 8. Amati keluaran yang ditampilkan.
 9. Catat/Screenshot urutan perintah yang dijalankan dan fungsi perintah `ECHO`, `PAUSE`, serta `@ECHO OFF`.
