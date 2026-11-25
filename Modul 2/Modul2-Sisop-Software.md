@@ -153,7 +153,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
    PAUSE
    ```
 
-3. Simpan berkas dengan nama `praktikum.bat` pada folder `PraktikumDOS`. Pastikan tipe berkas disimpan sebagai *All Files* agar ekstensi `.bat` tidak berubah menjadi `.txt`.
+3. Simpan berkas dengan nama `sisop.bat` pada folder `PraktikumDOS`. Pastikan tipe berkas disimpan sebagai *All Files* agar ekstensi `.bat` tidak berubah menjadi `.txt`.
 4. Buka DOSBox jika belum terbuka.
 5. Pastikan folder `PraktikumDOS` sudah terhubung sebagai drive C. Jika belum, jalankan perintah `MOUNT` seperti pada Percobaan 2.
 6. Masuk ke drive C dan direktori utama:
@@ -166,7 +166,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
 7. Jalankan batch file dengan mengetikkan:
 
    ```dos
-   praktikum.bat
+   sisop.bat
    ```
 
 8. Amati keluaran yang ditampilkan.
