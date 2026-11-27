@@ -195,7 +195,7 @@ Batch file merupakan berkas berekstensi `.BAT` yang berisi kumpulan perintah DOS
 3. Simpan berkas dengan nama `sisop.bat` pada folder `PraktikumDOS`. Pastikan tipe berkas disimpan sebagai *All Files* agar ekstensi `.bat` tidak berubah menjadi `.txt`.
 
    <p align="center">
-     <img src="../img/Percobaan2,3.png">
+     <img src="../img/Percobaan3,3.png">
    </p>
 
 4. Buka DOSBox jika belum terbuka.
